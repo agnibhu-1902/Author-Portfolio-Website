@@ -207,7 +207,7 @@ th
     width: 100%; /* States the header class content width to 100% */
     text-align: center; /* Center aligns the text */
     padding-top: 100px; /* Sets a top padding of 100 pixels */
-    padding-bottom: 210px; /* Sets a bottom padding of 105 pixels */
+    padding-bottom: 210px; /* Sets a bottom padding of 210 pixels */
     color: white; /* Sets the text colour to white */
     text-shadow: 3px 3px black; /* Sets a black shadow of size 3 pixels to the text */
     overflow: hidden; /* Clip the content if it overflows */

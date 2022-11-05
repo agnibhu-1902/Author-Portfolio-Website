@@ -1,7 +1,7 @@
 # Author-Portfolio-Website
 A simple website about the portfolios of five famous authors of India.
 
-> Open index.html using any web browser.
+> Open 'index.html' using any web browser.
 
 ### Authors Mentioned:  
 - Rabindranath Tagore

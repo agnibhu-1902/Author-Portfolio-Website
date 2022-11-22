@@ -80,7 +80,7 @@ li
 }
 #home h1
 {
-    font-family: 'Old English Text MT'; /* Changes the font family of the h1 tag in id home to 'Old English Text MT' */
+    font-family: 'Old English Text MT', Garamond, Cambria; /* Changes the font family of the h1 tag in id home to 'Old English Text MT' */
     text-shadow: 3px 3px chocolate; /* Gives a chocolate coloured text shadow of size 3 pixels */
 }
 .content
